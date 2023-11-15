@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Spotlight::Import::InternetArchive::VERSION
   spec.authors       = ["Chris Beer"]
   spec.email         = ["chris@cbeer.info"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{For harvesting objects from Internet Archive into Spotlight}
+  spec.description   = %q{Longer description goes here.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
